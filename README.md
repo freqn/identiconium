@@ -2,7 +2,7 @@
 
 `mix.deps` & run the following command to generate a `yourstring.png` inside of the `/identicons` folder
 
-Note: replace "yourstring" with any string value
+**Note**: Replace "yourstring" with any string value for a unique identicon
 
 ```
 iex> Identicon.main("yourstring")    

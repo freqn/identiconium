@@ -21,6 +21,8 @@ be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
 Run the following command to generate a `yourstring.png` inside of the `/identicons` folder
 
+(Note: replace "yourstring" with any string value)
+
 ```
 iex> Identicon.main("yourstring")    
       :ok

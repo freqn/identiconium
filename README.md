@@ -25,6 +25,9 @@ Run the following command to generate a `yourstring.png` inside of the `/identic
 iex> Identicon.main("yourstring")    
       :ok
 ```
+Example:
+
+![Alt text](https://github.com/freqn/identiconium/blob/master/identicons/example.png?raw=true)
 
 Enjoy!
 

@@ -1,4 +1,4 @@
-# Identicon
+# Identiconium
 
 ## Installation
 

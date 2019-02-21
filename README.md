@@ -1,6 +1,6 @@
 ## Instructions
 
-`mix.deps` & run the following command to generate a `yourstring.png` inside of the `/identicons` folder
+`mix deps.get` & run the following command to generate a `yourstring.png` inside of the `/identicons` folder
 
 **Note**: Replace "yourstring" with any string value for a unique identicon
 

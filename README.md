@@ -29,7 +29,7 @@ iex> Identicon.main("yourstring")
 ```
 Example:
 
-![Alt text](https://github.com/freqn/identiconium/blob/master/identicons/example.png?raw=true)
+![Alt text](https://github.com/freqn/identiconium/blob/master/identicons/yourstring.png?raw=true)
 
 Enjoy!
 
